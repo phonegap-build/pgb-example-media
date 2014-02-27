@@ -16,7 +16,7 @@
         PhoneGap Team
     </author>
 
-    <preference name="phonegap-version" value="3.0.0" /> 
+    <preference name="phonegap-version" value="3.1.0" /> 
 
     <gap:plugin name="org.apache.cordova.core.media" />
 </widget>
